@@ -1,0 +1,6 @@
+<resources>
+    <string-array name="status_options">
+        <item>Incomplete</item>
+        <item>Complete</item>
+    </string-array>
+</resources>
